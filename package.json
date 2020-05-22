@@ -1,0 +1,14 @@
+{
+  "name": "plantyourcode.com",
+  "version": "1.0.0",
+  "description": "Test driven solutions for plantyourcode.com problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha */test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
